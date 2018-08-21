@@ -1,5 +1,7 @@
-def print_me(text):
+def other_me(text):
+    pass
+def me_me(text):
     print(text+'\nme')
 
-print_me('test1')
-print_me('test2')
+me_me('test1')
+me_me('test2')
